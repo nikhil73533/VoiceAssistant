@@ -1,3 +1,9 @@
+# Assistant Functionality Module
+
+## Overview
+
+This project implements a voice assistant application that leverages WebRTC for real-time communication between the client and the agent. The assistant, embodied by Nikhil Gupta, provides insights into his professional journey, personal attributes, and areas of growth.
+
 **Summary of Findings and High-Level Approach**
 
 The provided code outlines the development of a voice assistant application utilizing Python, with real-time communication facilitated through WebRTC. The core components of this implementation include:
@@ -29,15 +35,6 @@ The provided code outlines the development of a voice assistant application util
 - **Application Deployment**:
   - Deploy the application on a server that supports asynchronous operations and WebRTC capabilities. Ensure that necessary ports are open and that the signaling server is accessible to clients.
 
-**Updated README File**:
-
-```markdown
-# Assistant Functionality Module
-
-## Overview
-
-This project implements a voice assistant application that leverages WebRTC for real-time communication between the client and the agent. The assistant, embodied by Nikhil Gupta, provides insights into his professional journey, personal attributes, and areas of growth.
-
 ## Prerequisites
 
 - **Python Version**: Ensure Python 3.6 or higher is installed.
@@ -68,31 +65,16 @@ This project implements a voice assistant application that leverages WebRTC for 
 
 ## Usage
 
-1. **Set Up Environment Variables**:
-
-   - Rename `sample.env` to `.env` and configure the necessary environment variables.
-
-2. **Run the Application**:
-
-   ```bash
-   python agent.py dev
-   ```
-
-   This command initiates the agent in development mode, establishing a WebRTC connection and awaiting client interactions.
-
-## WebRTC Integration
-
-The application utilizes the `aiortc` library to facilitate WebRTC functionalities, enabling real-time audio communication between the client and the agent. A signaling mechanism is implemented to exchange connection information, which is essential for establishing peer-to-peer communication. citeturn0search3
+```bash
+python3 agent.py dev
+```
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Video Demonstration
 
-- Inspired by Nikhil Gupta's professional journey and aspirations.
-- Utilizes the `aiortc` library for WebRTC implementation. citeturn0search3
-- References implementation strategies from related projects. citeturn0search4
-```
+To get a visual overview of the product, click on the link below:
 
-**Note**: Ensure that the signaling server is correctly set up and accessible to facilitate the WebRTC connections. Proper network configurations and firewall settings are essential for seamless real-time communication. 
+[Product Video](https://www.canva.com/design/DAGiM-g_hEA/3JiipW6Fr_DX_T3IcRX8-A/watch?utm_content=DAGiM-g_hEA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48467262ca)
