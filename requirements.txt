@@ -1,0 +1,10 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+python-dotenv
+livekit-api
+flask[async]
+flask
+flask-cors
+uvicorn
