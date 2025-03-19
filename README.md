@@ -1,11 +1,8 @@
-# Project Title
-
-Assistant Functionality Module
+# Assistant Functionality Module
 
 ## Overview
 
 This project provides a set of functionalities encapsulated within the `AssistantFnc` class. These functions are designed to handle various personal queries about Nikhil Gupta, an Associate Data Analyst with expertise in MLOps, LLMOps, and AI agent development.
-
 
 ## Prerequisites
 
@@ -20,7 +17,7 @@ Before running the code, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/yourusername/assistant-functionality-module.git
-   cd VoiceAssistant
+   cd assistant-functionality-module
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
@@ -40,13 +37,10 @@ Before running the code, ensure you have the following installed:
 
 ```bash
 python3 agent.py dev
-
 ```
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Video Demonstration
 
-## Acknowledgements
+To get a visual overview of the product, click on the link below:
 
-- Inspired by Nikhil Gupta's professional journey and aspirations.
----
+[Product Video](https://www.canva.com/design/DAGiM-g_hEA/3JiipW6Fr_DX_T3IcRX8-A/watch?utm_content=DAGiM-g_hEA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48467262ca)
