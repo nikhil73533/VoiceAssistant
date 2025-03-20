@@ -78,3 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 To get a visual overview of the product, click on the link below:
 
 [Product Video](https://www.canva.com/design/DAGiM-g_hEA/3JiipW6Fr_DX_T3IcRX8-A/watch?utm_content=DAGiM-g_hEA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h48467262ca)
+
+To Try a product first complete initial installation steps and then,click on the link below. 
+[Product Link](https://agents-playground.livekit.io/)
